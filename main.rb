@@ -8,3 +8,7 @@ puts('Some line')
 # here is comment
 
 #   inside is comment block
+
+BEGIN {
+  puts('NguyenDucThai 20194667')
+}
